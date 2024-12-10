@@ -9,7 +9,7 @@
 <meta name="robots" content="index, follow">
 <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
 <meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
-<link rel="canonical" href="https://safety.netlify.app/privacy-policy.html">
+<link rel="canonical" href="https://safetyblog.netlify.app/privacy-policy.html">
 <link rel="shortcut icon"  href="img/logo.jpg"/>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Kumbh+Sans:100,200,300,400,500,600,700,800,900&amp;display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
@@ -18,130 +18,133 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style type="text/css">
-ul{
-list-style: circle;
-}
-*{
-font-family: 'Kumbh Sans', sans-serif;
-}
-.navbar a{
-font-size: 18.1px!important;
-font-weight: bold;
-}
-footer{
-background:#101010;
-color:#ffffff;
-}
-.d6727606bd767554c6a9291533907cce4 a{
-font-size:16px;
-}
-.zf57579c9c85e480bcd1affe05c648c67:hover{
-box-shadow: 0 49.8px 49.9px -25px rgb(0 0 0 / 30%);
-transform: rotate(-2deg) scale(1.03);
-}
-html{
-scroll-behavior: smooth;
-}
-.nav-item{
-padding-left:7.8px;
-padding-right:7.8px;
-padding-top:5.2px;
-padding-bottom:5.1px;
-}
-.w15639c3e08fce6f54a55033b2ac15a01{
-background-color:#ffc107!important;
-border-color:#ffc107!important;
-color:#000000!important;
-}
 footer a{
 color:#ffffff;
 text-decoration: underline;
 }
-a{
-text-decoration: none!important;
+.tad2fb25f436bbf23bc39d2b27009ca53 a{
+font-size:16px;
 }
-.w3e8c0374ef915dd5c1c2b8a55ac32a58 p,.w3e8c0374ef915dd5c1c2b8a55ac32a58 a,.w3e8c0374ef915dd5c1c2b8a55ac32a58 span,.w3e8c0374ef915dd5c1c2b8a55ac32a58 label{
+.vbba335ac83d6d0cf6f2ecf558d308e9f p,.vbba335ac83d6d0cf6f2ecf558d308e9f a,.vbba335ac83d6d0cf6f2ecf558d308e9f span,.vbba335ac83d6d0cf6f2ecf558d308e9f label{
 font-size:16px!important;
 }
-.d6727606bd767554c6a9291533907cce4 p,.d6727606bd767554c6a9291533907cce4 span,.d6727606bd767554c6a9291533907cce4 label{
-font-size:16px!important;
+.c56178d80d80e04a436102a4520b8731b{
+background-color:#ffc107!important;
+border-color:#ffc107!important;
+color:#000000!important;
 }
-.w3e8c0374ef915dd5c1c2b8a55ac32a58 a,.d6727606bd767554c6a9291533907cce4 a{
-color:#010101!important;
-text-decoration: underline !important;
+.nav-item{
+padding-left:8.4px;
+padding-right:7.6px;
+padding-top:4.8px;
+padding-bottom:4.8px;
+}
+html{
+scroll-behavior: smooth;
+}
+.btn-md{
+padding: 14.8px 30.3px;
+border-radius: 0;
 }
 footer *{
 font-size:16px !important;
 }
-.btn-md{
-padding: 14.7px 30.5px;
-border-radius: 0;
+a:hover{
+color:;background:!important;
 }
 .nav-link{
-color: #823c3c!important;
+color: #823c3c;
 
+}
+.t09943426e9e956b2dc0819a3046a7338:hover{
+box-shadow: 0 50.5px 50px -25px rgb(0 0 0 / 30%);
+transform: rotate(-2deg) scale(1.03);
+}
+a{
+text-decoration: none!important;
+}
+ul{
+list-style: circle;
+}
+.vbba335ac83d6d0cf6f2ecf558d308e9f a,.tad2fb25f436bbf23bc39d2b27009ca53 a{
+color:#101010!important;
+text-decoration: underline !important;
+}
+.navbar a{
+font-size: 17.5px!important;
+font-weight: bold;
+}
+*{
+font-family: 'Kumbh Sans', sans-serif;
+}
+.tad2fb25f436bbf23bc39d2b27009ca53 p,.tad2fb25f436bbf23bc39d2b27009ca53 span,.tad2fb25f436bbf23bc39d2b27009ca53 label{
+font-size:16px!important;
+}
+footer{
+background:#0b0b0b;
+color:#ffffff;
 }
 </style>
 </head>
 <body>
-<nav class="navbar-expand-lg navbar">
-<a class="navbar-brand" href="https://safety.netlify.app/index.html"  ><img alt="img/logo.jpg" src="img/logo.jpg"  width="150px" ></a>
+<nav class="navbar navbar-expand-lg">
+<a class="navbar-brand" href="https://safetyblog.netlify.app/index.html"  ><img alt="img/logo.jpg" src="img/logo.jpg"  width="150px" ></a>
 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 <span class="navbar-toggler-icon"></span></button><div class="collapse navbar-collapse" id="navbarSupportedContent">
-<ul class="ml-auto align-items-center d-flex navbar-nav"><li class="nav-item"><a class="nav-link uabd824730fa4b0d5838080a7d73e5201" href="https://safety.netlify.app/news.html"  >News</a></li>
+<ul class="d-flex ml-auto navbar-nav align-items-center"><li class="nav-item"><a class="nav-link wce91d37e4fc54929cf32fb1e659f7270" href="https://safetyblog.netlify.app/news.html"  >News</a></li>
+  
+<li class=" nav-item dropdown">
+<a class="wce91d37e4fc54929cf32fb1e659f7270 dropdown-toggle nav-link" href="https://safetyblog.netlify.app/index.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">SafePulse Crime Prevention Area</a>
+<div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+<a class="dropdown-item" href="https://safetyblog.netlify.app/index.html"  >SafePulse Crime Prevention Area</a>
+<a class="dropdown-item" href="https://safetyblog.netlify.app/community-policing.html"  >Community Policing</a>
+<a class="dropdown-item" href="https://safetyblog.netlify.app/surveillance-systems.html"  >Surveillance Systems</a>
+<a class="dropdown-item" href="https://safetyblog.netlify.app/neighborhood-watch-programs.html"  >Neighborhood Watch Programs</a>
+<a class="dropdown-item" href="https://safetyblog.netlify.app/crime-analysis-and-mapping.html"  >Crime Analysis and Mapping</a>
+<a class="dropdown-item" href="https://safetyblog.netlify.app/youth-engagement-programs.html"  >Youth Engagement Programs</a>
+  
+<li class=" nav-item dropdown">
+<a class="wce91d37e4fc54929cf32fb1e659f7270 nav-link dropdown-toggle" href="https://safetyblog.netlify.app/emergency-response.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Emergency Response</a>
+<div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+<a class="dropdown-item" href="https://safetyblog.netlify.app/emergency-response.html"  >Emergency Response</a>
+<a class="dropdown-item" href="https://safetyblog.netlify.app/services.html"  >Services</a>
+<a class="dropdown-item" href="https://safetyblog.netlify.app/disaster-preparedness.html"  >Disaster Preparedness</a>
+<a class="dropdown-item" href="https://safetyblog.netlify.app/first-responders-training.html"  >First Responders Training</a>
+<a class="dropdown-item" href="https://safetyblog.netlify.app/crisis-communication.html"  >Crisis Communication</a>
+<a class="dropdown-item" href="https://safetyblog.netlify.app/emergency-medical-services-ems.html"  >Emergency Medical Services EMS</a>
+  
+<li class="nav-item dropdown ">
+<a class="wce91d37e4fc54929cf32fb1e659f7270 dropdown-toggle nav-link" href="https://safetyblog.netlify.app/traffic-safety.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Traffic Safety</a>
+<div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+<a class="dropdown-item" href="https://safetyblog.netlify.app/traffic-safety.html"  >Traffic Safety</a>
+<a class="dropdown-item" href="https://safetyblog.netlify.app/road-design-and-engineering.html"  >Road Design and Engineering</a>
+<a class="dropdown-item" href="https://safetyblog.netlify.app/drunk-driving-prevention.html"  >Drunk Driving Prevention</a>
+<a class="dropdown-item" href="https://safetyblog.netlify.app/speed-limit-enforcement.html"  >Speed Limit Enforcement</a>
+<a class="dropdown-item" href="https://safetyblog.netlify.app/pedestrian-safety-initiatives.html"  >Pedestrian Safety Initiatives</a>
+<a class="dropdown-item" href="https://safetyblog.netlify.app/vehicle-safety-standards.html"  >Vehicle Safety Standards</a>
+  
+<li class=" dropdown nav-item">
+<a class="wce91d37e4fc54929cf32fb1e659f7270 dropdown-toggle nav-link" href="https://safetyblog.netlify.app/public-health-safety.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Public Health & Safety</a>
+<div class="dropdown-menu-right dropdown-menu" aria-labelledby="navbarDropdown">
+<a class="dropdown-item" href="https://safetyblog.netlify.app/public-health-safety.html"  >Public Health & Safety</a>
+<a class="dropdown-item" href="https://safetyblog.netlify.app/disease-control-prevention.html"  >Disease Control Prevention</a>
+<a class="dropdown-item" href="https://safetyblog.netlify.app/vaccination-programs.html"  >Vaccination Programs</a>
+<a class="dropdown-item" href="https://safetyblog.netlify.app/quarantine-procedures.html"  >Quarantine Procedures</a>
+<a class="dropdown-item" href="https://safetyblog.netlify.app/health-education-campaigns.html"  >Health Education Campaigns</a>
+<a class="dropdown-item" href="https://safetyblog.netlify.app/water-sanitation-monitoring.html"  >Water Sanitation Monitoring</a>
+<a class="dropdown-item" href="https://safetyblog.netlify.app/air-quality-control.html"  >Air Quality Control</a>
   
 <li class="nav-item  dropdown">
-<a class="uabd824730fa4b0d5838080a7d73e5201 dropdown-toggle nav-link" href="https://safety.netlify.app/index.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">SafePulse Crime Prevention Area</a>
-<div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
-<a class="dropdown-item" href="https://safety.netlify.app/index.html"  >SafePulse Crime Prevention Area</a>
-<a class="dropdown-item" href="https://safety.netlify.app/community-policing.html"  >Community Policing</a>
-<a class="dropdown-item" href="https://safety.netlify.app/surveillance-systems.html"  >Surveillance Systems</a>
-<a class="dropdown-item" href="https://safety.netlify.app/neighborhood-watch-programs.html"  >Neighborhood Watch Programs</a>
-<a class="dropdown-item" href="https://safety.netlify.app/crime-analysis-and-mapping.html"  >Crime Analysis and Mapping</a>
-<a class="dropdown-item" href="https://safety.netlify.app/youth-engagement-programs.html"  >Youth Engagement Programs</a>
-  
-<li class=" nav-item dropdown">
-<a class="nav-link uabd824730fa4b0d5838080a7d73e5201 dropdown-toggle" href="https://safety.netlify.app/emergency-response.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Emergency Response</a>
-<div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
-<a class="dropdown-item" href="https://safety.netlify.app/emergency-response.html"  >Emergency Response</a>
-<a class="dropdown-item" href="https://safety.netlify.app/services.html"  >Services</a>
-<a class="dropdown-item" href="https://safety.netlify.app/disaster-preparedness.html"  >Disaster Preparedness</a>
-<a class="dropdown-item" href="https://safety.netlify.app/first-responders-training.html"  >First Responders Training</a>
-<a class="dropdown-item" href="https://safety.netlify.app/crisis-communication.html"  >Crisis Communication</a>
-<a class="dropdown-item" href="https://safety.netlify.app/emergency-medical-services-ems.html"  >Emergency Medical Services EMS</a>
-  
-<li class=" nav-item dropdown">
-<a class="uabd824730fa4b0d5838080a7d73e5201 nav-link dropdown-toggle" href="https://safety.netlify.app/traffic-safety.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Traffic Safety</a>
+<a class="nav-link dropdown-toggle wce91d37e4fc54929cf32fb1e659f7270" href="https://safetyblog.netlify.app/must-read.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Must Read</a>
 <div class="dropdown-menu-right dropdown-menu" aria-labelledby="navbarDropdown">
-<a class="dropdown-item" href="https://safety.netlify.app/traffic-safety.html"  >Traffic Safety</a>
-<a class="dropdown-item" href="https://safety.netlify.app/road-design-and-engineering.html"  >Road Design and Engineering</a>
-<a class="dropdown-item" href="https://safety.netlify.app/drunk-driving-prevention.html"  >Drunk Driving Prevention</a>
-<a class="dropdown-item" href="https://safety.netlify.app/speed-limit-enforcement.html"  >Speed Limit Enforcement</a>
-<a class="dropdown-item" href="https://safety.netlify.app/pedestrian-safety-initiatives.html"  >Pedestrian Safety Initiatives</a>
-<a class="dropdown-item" href="https://safety.netlify.app/vehicle-safety-standards.html"  >Vehicle Safety Standards</a>
-  
-<li class=" nav-item dropdown">
-<a class="dropdown-toggle nav-link uabd824730fa4b0d5838080a7d73e5201" href="https://safety.netlify.app/public-health-safety.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Public Health & Safety</a>
-<div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
-<a class="dropdown-item" href="https://safety.netlify.app/public-health-safety.html"  >Public Health & Safety</a>
-<a class="dropdown-item" href="https://safety.netlify.app/disease-control-prevention.html"  >Disease Control Prevention</a>
-<a class="dropdown-item" href="https://safety.netlify.app/vaccination-programs.html"  >Vaccination Programs</a>
-<a class="dropdown-item" href="https://safety.netlify.app/quarantine-procedures.html"  >Quarantine Procedures</a>
-<a class="dropdown-item" href="https://safety.netlify.app/health-education-campaigns.html"  >Health Education Campaigns</a>
-<a class="dropdown-item" href="https://safety.netlify.app/water-sanitation-monitoring.html"  >Water Sanitation Monitoring</a>
-<a class="dropdown-item" href="https://safety.netlify.app/air-quality-control.html"  >Air Quality Control</a>
-  
-<li class="nav-item  dropdown">
-<a class="uabd824730fa4b0d5838080a7d73e5201 dropdown-toggle nav-link" href="https://safety.netlify.app/must-read.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Must Read</a>
-<div class="dropdown-menu-right dropdown-menu" aria-labelledby="navbarDropdown">
-<a class="dropdown-item" href="https://safety.netlify.app/must-read.html"  >Must Read</a>
-<a class="dropdown-item" href="https://safety.netlify.app/fire-safety.html"  >Fire Safety</a>
-<a class="dropdown-item" href="https://safety.netlify.app/fire-codes-and-regulations.html"  >Fire Codes and Regulations</a>
-<a class="dropdown-item" href="https://safety.netlify.app/smoke-detectors-installation.html"  >Smoke Detectors Installation</a>
-<a class="dropdown-item" href="https://safety.netlify.app/firefighting-techniques.html"  >Firefighting Techniques</a>
-<a class="dropdown-item" href="https://safety.netlify.app/wildfire-management.html"  >Wildfire Management</a>
-<a class="dropdown-item" href="https://safety.netlify.app/public-awareness-campaigns.html"  >Public Awareness Campaigns</a>
-<li class="nav-item"><a class="nav-link uabd824730fa4b0d5838080a7d73e5201" rel=nofollow href="https://safety.netlify.app/about-us.html">About Us</a>
+<a class="dropdown-item" href="https://safetyblog.netlify.app/must-read.html"  >Must Read</a>
+<a class="dropdown-item" href="https://safetyblog.netlify.app/fire-safety.html"  >Fire Safety</a>
+<a class="dropdown-item" href="https://safetyblog.netlify.app/fire-codes-and-regulations.html"  >Fire Codes and Regulations</a>
+<a class="dropdown-item" href="https://safetyblog.netlify.app/smoke-detectors-installation.html"  >Smoke Detectors Installation</a>
+<a class="dropdown-item" href="https://safetyblog.netlify.app/firefighting-techniques.html"  >Firefighting Techniques</a>
+<a class="dropdown-item" href="https://safetyblog.netlify.app/wildfire-management.html"  >Wildfire Management</a>
+<a class="dropdown-item" href="https://safetyblog.netlify.app/public-awareness-campaigns.html"  >Public Awareness Campaigns</a>
+<li class="nav-item"><a class="nav-link wce91d37e4fc54929cf32fb1e659f7270" rel=nofollow href="https://safetyblog.netlify.app/about-us.html">About Us</a>
 </li></ul>
 </div>
 </nav>
@@ -199,19 +202,19 @@ color: #823c3c!important;
 <p>
 This website is owned and published by:
 SafePulse</br>
-859-558-6928</br>
-4899  Walnut Avenue</br>
-Irvine, CA, 92612</br>
-USA</br>
+994-945-9983</br>
+8855  Ridge Road</br>
+Lincoln, NE, 68508</br>
+United States</br>
 </br>
-<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="f0ba91939b839f9eb2919b9582a6999587c3b0979d91999cde939f9d">[email&#160;protected]</a></br>
+OliverCarterRoam3@gmail.com</br>
 </p>
 </section>
 <footer>
-<div class="py-4 pt-5 container" >
-<div class="row"><div class="col-lg-3"><p><a class="uabd824730fa4b0d5838080a7d73e5201" href="https://safety.netlify.app/sitemap.html" rel="nofollow">Sitemap</a></p>
-<p><a class="uabd824730fa4b0d5838080a7d73e5201" href="https://safety.netlify.app/privacy-policy.html" rel="nofollow">Privacy Policy</a></p>
-<p><a class="uabd824730fa4b0d5838080a7d73e5201" href="https://safety.netlify.app/about-us.html" rel="nofollow">About Us</a></p>
+<div class="container pt-5 py-4" >
+<div class="row"><div class="col-lg-3"><p><a class="wce91d37e4fc54929cf32fb1e659f7270" href="https://safetyblog.netlify.app/sitemap.html" rel="nofollow">Sitemap</a></p>
+<p><a class="wce91d37e4fc54929cf32fb1e659f7270" href="https://safetyblog.netlify.app/privacy-policy.html" rel="nofollow">Privacy Policy</a></p>
+<p><a class="wce91d37e4fc54929cf32fb1e659f7270" href="https://safetyblog.netlify.app/about-us.html" rel="nofollow">About Us</a></p>
 <p><p>The content provided on this blog is for informational purposes only and is not intended as medical advice, diagnosis, or treatment. The information presented here is not meant to substitute professional medical advice, diagnosis, or treatment. Always seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have read on this blog.</p>
 
 <p>The authors and administrators of this blog are not healthcare professionals, and viewing this content does not create a doctor-patient relationship. We do not guarantee the accuracy, completeness, relevance, or timeliness of any information on this site and are not responsible for any errors or omissions in this information nor for the availability of this information.</p></p>
@@ -219,7 +222,7 @@ USA</br>
 </div></div>
 </div>
 </footer> 
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+<script type="text/javascript">
 document.addEventListener('DOMContentLoaded', function() {
 var dropdowns = document.querySelectorAll('.dropdown-hover');
 function showDropdown() {
